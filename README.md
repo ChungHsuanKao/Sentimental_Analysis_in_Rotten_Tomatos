@@ -1,0 +1,1 @@
+# Sentimental_Analysis_in_Rotten_Tomatos
